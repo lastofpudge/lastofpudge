@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andreii
 - 👀 I’m interested in web-development
-- 🌱 I’m currently learning react-native
+- 🌱 I’m currently learning nextjs/react-native
 - 📫 How to reach me iluxor1991@gmail.com
 
 <!---
