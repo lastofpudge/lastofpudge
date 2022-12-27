@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Andreii
 - 👀 I’m interested in web-development
 - 🌱 I’m currently learning nextjs/react-native
+- ✨ https://lastofpudge.github.io/next-portfolio/
 - 📫 How to reach me iluxor1991@gmail.com
 
 <!---
