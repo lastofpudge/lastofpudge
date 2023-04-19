@@ -1,9 +1,4 @@
-- 👋 Hi, I’m Andreii
-- 👀 I’m interested in web-development
-- 🌱 I’m currently learning nextjs/react-native
-- ✨ https://lastofpudge.github.io/next-portfolio/
-- 📌 cv: https://lastofpudge.github.io/next-portfolio/cv.pdf
-- 📫 How to reach me iluxor1991@gmail.com
+https://lastofpudge.github.io/next-portfolio/cv.pdf
 
 <!---
 lastofpudge/lastofpudge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
