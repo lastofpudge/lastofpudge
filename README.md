@@ -1,6 +1,28 @@
-https://lastofpudge.github.io/next-portfolio/cv.pdf
+# 👋 Hey there! I'm a Skilled Full-Stack Developer!
 
-<!---
-lastofpudge/lastofpudge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I bring over [8+ years](https://lastofpudge.github.io/next-portfolio/cv.pdf) of experience to the coding table. My passion lies in crafting seamless interfaces and bringing creative ideas to life.
+
+## 🚀 What I Do:
+- Front-end development wizard
+- Figma to HTML/WordPress enthusiast ❤️
+
+## 🌐 Some Awesome Clients I've Worked With:
+- PeopleForce
+- Doornbos Group
+- De-New
+- U-smart
+
+## 💻 My Favorite Tech Stack:
+
+<div align="center">
+  
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
+</div>
+
+Let's code together and make the web a brighter place! ✨
