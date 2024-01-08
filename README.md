@@ -5,7 +5,7 @@ I bring over [8+ years](https://lastofpudge.github.io/next-portfolio/cv.pdf) of 
 ## 🚀 What I Do:
 - Front-end development wizard
 - Figma to HTML/WordPress enthusiast ❤️
-- Cool animations [stuff](https://lastofpudge.github.io/next-portfolio/) with gsap
+- Cool [animations](https://lastofpudge.github.io/next-portfolio/) with gsap
 
 ## 🌐 Some Awesome Clients I've Worked With:
 - PeopleForce
