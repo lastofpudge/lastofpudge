@@ -25,4 +25,11 @@ I bring over [8+ years](https://lastofpudge.github.io/next-portfolio/cv.pdf) of 
 
 </div>
 
+## Want to see some cool stuff?
+### GModal - Pure JavaScript Modal
+[GModal](https://github.com/lastofpudge/GModal) is a lightweight, pure JavaScript modal with a mere 6kb size and zero dependencies. It offers a seamless modal experience with customizable open/close effects. Check it out if you're looking for a simple yet powerful modal solution.
+
+### WordPress Starter Theme
+Explore my [WordPress Starter Theme](https://github.com/lastofpudge/wp-theme), crafted with Timber 2 and Twig. It's designed to kickstart your WordPress projects with a modern approach, leveraging the power of Timber and the elegance of Twig templating. Simplify your WordPress development and create beautiful, efficient themes.
+
 Let's code together and make the web a brighter place! ✨
