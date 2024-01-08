@@ -33,4 +33,6 @@ I bring over [8+ years](https://lastofpudge.github.io/next-portfolio/cv.pdf) of 
 ### WordPress Starter Theme
 Explore my [WordPress Starter Theme](https://github.com/lastofpudge/wp-theme), crafted with Timber 2 and Twig. It's designed to kickstart your WordPress projects with a modern approach, leveraging the power of Timber and the elegance of Twig templating. Simplify your WordPress development and create beautiful, efficient themes.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lastofpudge&show_icons=true&theme=tokyonight)](https://github.com/lastofpudge/github-readme-stats)
+
 Let's code together and make the web a brighter place! ✨
