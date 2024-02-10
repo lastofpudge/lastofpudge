@@ -1,9 +1,9 @@
 # 👋 Hey there! I'm a Skilled Full-Stack Developer!
 
-I bring over [8+ years](https://lastofpudge.github.io/next-portfolio/cv.pdf) of experience to the coding table. My passion lies in crafting seamless interfaces and bringing creative ideas to life.
+Web developer with [8+ years](https://lastofpudge.github.io/next-portfolio/cv.pdf) of experience.
 
 ## 🚀 What I Do:
-- Front-end development wizard
+- Front-end development
 - Figma to HTML/WordPress
 - Cool [animations](https://lastofpudge.github.io/next-portfolio/) with gsap
 
