@@ -35,8 +35,6 @@ Big fun of laravel framework
 Explore my [WordPress Starter Theme](https://github.com/lastofpudge/wp-theme), crafted with Timber 2 and Twig. It's designed to kickstart your WordPress projects with a modern approach, leveraging the power of Timber and the elegance of Twig templating. Simplify your WordPress development and create beautiful, efficient themes.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lastofpudge&show_icons=true&theme=tokyonight)](https://github.com/lastofpudge/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=lastofpudge)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=lastofpudge&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 Let's code together and make the web a brighter place! ✨
