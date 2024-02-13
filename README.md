@@ -36,4 +36,7 @@ Explore my [WordPress Starter Theme](https://github.com/lastofpudge/wp-theme), c
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lastofpudge&show_icons=true&theme=tokyonight)](https://github.com/lastofpudge/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=lastofpudge)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 Let's code together and make the web a brighter place! ✨
