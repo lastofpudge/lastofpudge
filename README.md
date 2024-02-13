@@ -29,12 +29,10 @@ Big fun of laravel framework
 
 ## Want to see some cool stuff?
 ### GModal - Pure JavaScript Modal
-[GModal](https://github.com/lastofpudge/GModal) is a lightweight, pure JavaScript modal with a mere 6kb size and zero dependencies. It offers a seamless modal experience with customizable open/close effects. Check it out if you're looking for a simple yet powerful modal solution.
+[GModal](https://github.com/lastofpudge/GModal) is a lightweight, pure JavaScript modal with a mere 6kb size and zero dependencies.
 
 ### WordPress Starter Theme
-Explore my [WordPress Starter Theme](https://github.com/lastofpudge/wp-theme), crafted with Timber 2 and Twig. It's designed to kickstart your WordPress projects with a modern approach, leveraging the power of Timber and the elegance of Twig templating. Simplify your WordPress development and create beautiful, efficient themes.
+Explore my [WordPress Starter Theme](https://github.com/lastofpudge/wp-theme). It's powered by Timber 2 and Twig, offering a modern approach to your wordpress projects.
 
+### Some stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lastofpudge&show_icons=true&theme=tokyonight)](https://github.com/lastofpudge/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=lastofpudge&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-Let's code together and make the web a brighter place! ✨
