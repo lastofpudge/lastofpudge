@@ -25,14 +25,14 @@ Web developer with [8+ years](https://lastofpudge.github.io/next-portfolio/cv.pd
 
 </div>
 
-Big fun of laravel framework
+Big fun of Laravel framework
 
 ## Want to see some cool stuff?
 ### GModal - Pure JavaScript Modal
 [GModal](https://github.com/lastofpudge/GModal) is a lightweight, pure JavaScript modal with a mere 6kb size and zero dependencies.
 
 ### WordPress Starter Theme
-Explore my [WordPress Starter Theme](https://github.com/lastofpudge/wp-theme). It's powered by Timber 2 and Twig, offering a modern approach to your wordpress projects.
+Explore my [WordPress Starter Theme](https://github.com/lastofpudge/wp-theme). It's powered by Timber 2 and Twig, offering a modern approach to your wordpress projects. The theme combines elements of OOP and functional programming.
 
 ### Some stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lastofpudge&show_icons=true&theme=tokyonight)](https://github.com/lastofpudge/github-readme-stats)
