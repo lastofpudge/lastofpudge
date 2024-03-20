@@ -4,7 +4,9 @@ Web developer with [8+ years](https://lastofpudge.github.io/next-portfolio/cv.pd
 
 ## 🚀 What I Do:
 - Front-end development
-- Figma to HTML/WordPress
+- Figma to HTML
+- WordPress professional theme development
+- Opencart theme development from scratch
 - Cool [animations](https://lastofpudge.github.io/next-portfolio/) with gsap
 
 ## 🌐 Some Awesome Clients I've Worked With:
