@@ -27,7 +27,7 @@ Web developer with [8+ years](https://lastofpudge.github.io/next-portfolio/cv.pd
 
 </div>
 
-Big fun of Laravel framework
+Big fun of Laravel framework, seo advanced knowledge
 
 ## Want to see some cool stuff?
 ### GModal - Pure JavaScript Modal
