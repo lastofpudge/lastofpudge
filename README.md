@@ -11,9 +11,9 @@ Web developer with [8+ years](https://lastofpudge.github.io/next-portfolio/cv.pd
 
 ## 🌐 Some Awesome Clients I've Worked With:
 - PeopleForce
-- Doornbos Group
 - De-New
 - U-smart
+- Doornbos Group
 
 ## 💻 My Favorite Tech Stack:
 
