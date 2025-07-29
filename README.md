@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm a Skilled Full-Stack Developer!
 
-Web developer with [8+ years]([https://lastofpudge.github.io/next-portfolio/cv.pdf](https://raw.githubusercontent.com/lastofpudge/lastofpudge/main/cv.pdf)) of experience.
+Web developer with [8+ years](https://raw.githubusercontent.com/lastofpudge/lastofpudge/main/cv.pdf) of experience.
 
 ## 🚀 What I Do:
 - Front-end development
