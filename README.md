@@ -35,4 +35,4 @@ Big fun of Laravel framework, seo advanced knowledge
 Explore my [WordPress Starter Theme](https://github.com/lastofpudge/wp-theme). It's powered by Timber 2 and Twig, offering a modern approach to your wordpress projects. The theme combines elements of OOP and functional programming.
 
 ### Some stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lastofpudge&show_icons=true&theme=tokyonight)](https://github.com/lastofpudge/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?lastofpudge=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
