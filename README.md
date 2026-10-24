@@ -1,13 +1,13 @@
 # 👋 Hey there! I'm a Skilled Full-Stack Developer!
 
-Web developer with [8+ years](https://raw.githubusercontent.com/lastofpudge/lastofpudge/main/cv.pdf) of experience.
+Web developer with [10+ years](https://raw.githubusercontent.com/lastofpudge/lastofpudge/main/cv.pdf) of experience.
 
 ## 🚀 What I Do:
-- Front-end development
-- Figma to HTML
-- WordPress professional theme development
-- Opencart theme development from scratch
-- Cool [animations](https://lastofpudge.github.io/next-portfolio/) with gsap
+- WordPress and e-commerce development
+- Custom themes and integrations
+- API integrations and AI automation
+- Figma to responsive HTML
+- [GSAP animations](https://lastofpudge.github.io/next-portfolio/)
 
 ## 🌐 Some Awesome Clients I've Worked With:
 - PeopleForce
@@ -25,7 +25,23 @@ Web developer with [8+ years](https://raw.githubusercontent.com/lastofpudge/last
 
 </div>
 
-Big fun of Laravel framework, seo advanced knowledge
+Laravel fan. Strong SEO knowledge.
+
+## Selected Projects
+
+### Fully Developed & Supported
+- [HTS Market](https://htsmarket.com.ua/)
+- [ViaR Canvas](https://viarcanvas.com/en)
+- [Tero Design](https://tero.design)
+- [MyClient](https://myclient.me/ua)
+- [Doornbos Group](https://doornbos-group.com)
+- [De-New](https://de-new.com/en)
+- [Horror Quest](https://horror-quest.com)
+- [Do Metals](https://apps.apple.com/us/app/do-metals-b-v/id1606400713)
+- [Do Flex](https://apps.apple.com/us/app/do-flex/id1452822878)
+
+### Project Contribution
+- [Cultural Project](https://culturalproject.org)
 
 ## Want to see some cool stuff?
 ### GModal - Pure JavaScript Modal
