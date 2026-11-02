@@ -53,6 +53,6 @@ Explore my [WordPress Starter Theme](https://github.com/lastofpudge/wp-theme). I
 ### Some stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lastofpudge&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lastofpudge&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lastofpudge&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lastofpudge&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
 </p>
