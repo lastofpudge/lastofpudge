@@ -48,10 +48,11 @@ Laravel fan. Strong SEO knowledge.
 [GModal](https://github.com/lastofpudge/GModal) is a lightweight, pure JavaScript modal with a mere 6kb size and zero dependencies.
 
 ### WordPress Starter Theme
-Explore my [WordPress Starter Theme](https://github.com/lastofpudge/wp-theme). It's powered by Timber 2 and Twig, offering a modern approach to your wordpress projects. The theme combines elements of OOP and functional programming.
+Explore my [WordPress Starter Theme](https://github.com/lastofpudge/wp-theme). It's powered by Timber 2 and Twig, offering a modern approach to your wordpress projects. The theme combines elements of modern PHP development with the proven flexibility of WordPress.
 
 ### Some stats
+
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lastofpudge&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lastofpudge&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=lastofpudge&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lastofpudge&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Top languages" />
 </p>
